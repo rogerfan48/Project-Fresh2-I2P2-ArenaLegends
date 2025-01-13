@@ -4,6 +4,7 @@ build
 *.dll
 !allegro_monolith-5.2.dll
 log.txt
+.cache/
 Makefile
 .vscode/
 .DS_Store

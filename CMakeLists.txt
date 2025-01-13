@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.27)
 project(ArenaLegends)
 
 set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 include_directories(.)
 include_directories(Resource)
